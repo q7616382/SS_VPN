@@ -14,12 +14,13 @@
   "notice": 2,
   "checkin": 1,
   "line_flag_regex": "",
-  "line_exclude_loc": 0,
+  "line_exclude_loc": 1,
   "payment_config": {
     "Alipay": "1",
     "Wechat": "0"
   },
   "hosts": [
     "https://bayun.me/",
+    "https://rss.ss8848.xyz/"
   ]
 }
