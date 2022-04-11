@@ -2,7 +2,7 @@
   "key": "v2b_8yun",
   "target": 1,
   "email": "",
-  "tg": "https://t.me/bayunwl",
+  "tg": "https://t.me/Bayun_vip",
   "crisp": "",
   "loginless": 0,
   "loginless_link": "",
@@ -12,15 +12,15 @@
   "captcha_register": 1,
   "captcha_checkin": 1,
   "notice": 2,
-  "checkin": 1,
-  "line_flag_regex": "",
-  "line_exclude_loc": 1,
+  "checkin": 0,
+  "line_flag_regex": "([\\u4e00-\\u9fa5]+)",
+  "line_exclude_loc": 0,
   "payment_config": {
     "Alipay": "1",
     "Wechat": "0"
   },
   "hosts": [
-    "https://bayun.me/",
-    "https://rss.ss8848.xyz/"
+    "https://bayun.me",
+    "http://rss.zljfsh.cn/"
   ]
 }
