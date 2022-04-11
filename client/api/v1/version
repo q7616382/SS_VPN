@@ -1,9 +1,9 @@
 {
-  "code": 104030,
-  "name": "1.0.4",
-  "content": "1：优化节点显示\n2：修复邀请BUG\n3：优化加载速度\n4：优化套餐到期提示",
+  "code": 104060,
+  "name": "1.0.6",
+  "content": "1：修复支付问题\n2：优化响应速度\n3：修复部分BUG",
   "url": "https://wiki.bnas.vip/8yun/%E5%85%AB%E4%BA%91%E7%BD%91%E7%BB%9CAPP.apk",
-  "md5": "8a7c17e6eb10da02b2c1fcf0c0bb7a80",
+  "md5": "bcbc1fb39e1ec0717801e548c44a4ae2",
   "force": 0,
   "qrcode": "https://wiki.bnas.vip/img/bayun.png",
   "create_time": 1634735922,
